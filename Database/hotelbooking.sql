@@ -417,8 +417,8 @@ CREATE TABLE `team_details` (
 --
 
 INSERT INTO `team_details` (`sr_no`, `name`, `picture`) VALUES
-(16, 'Amey', 'IMG_38410.jpg'),
-(17, 'Neal', 'IMG_69823.jpg');
+(16, 'Bode', 'IMG_38410.jpg'),
+(17, 'Favour', 'IMG_69823.jpg');
 
 -- --------------------------------------------------------
 
